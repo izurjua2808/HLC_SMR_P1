@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Update history from command line
+=======
+git commit git push
+>>>>>>> 4ede6c00b57220dacd6a91b5cdc204c7818ac733
